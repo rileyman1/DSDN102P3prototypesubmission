@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/blueprints/lilfella.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/blueprints/lilfellacontroller.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/blueprints/lilfellasgame.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/NewMap.umap",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/_GENERATED/rileymanley/CubeGridToolOutput_5E7F2686.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/NewWorld.umap",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/blueprints/mainmenumap.umap",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/_GENERATED/rileymanley/CubeGridToolOutput_90DD22FD.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/_GENERATED/rileymanley/CubeGridToolOutput_B8BE9272.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/mainmenumap.umap",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/mainmenumap.umap",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/menuthingy.umap",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/UI/mainmenu.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/UI/menugamemode.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/gamemap.umap",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/UI/shovellington.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/UI/pausemenu/wpause.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/_GENERATED/rileymanley/CubeGridToolOutput_D01133AC.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/payer-run.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/payer-run.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/payer-run_Sprite_0.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/payer-run_Sprite_1.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/payer-run_Sprite_2.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/payer-run_Sprite_3.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/payer-run_Sprite_4.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/payer-run_Sprite_5.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/idle.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/jump.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/player-idle.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/player-idle_Sprite_idle_0.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/player-idle_Sprite_idle_1.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/player-idle_Sprite_idle_2.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/player-idle_Sprite_idle_3.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/player-jump.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/player-jump_Sprite_jump_0.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/player-jump_Sprite_jump_1.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/sprites/playerrun.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/blueprints/back.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/blueprints/tree.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/back.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/back_Mat.uasset",
+				"/Users/rileymanley/Documents/Unreal Projects/DSDN102P3PROPER/Content/maps/_GENERATED/rileymanley/CubeGridToolOutput_29FD280C.uasset"
+			]
+		}
+	]
+}
